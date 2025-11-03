@@ -2,8 +2,8 @@
 
 ## <ins>Problem</ins>
 
-The​‍​‌‍​‍‌ world is full of different smart parking systems that include automatic pay stations and barriers, auto pay parking systems, active RFID parking systems, robotic parking systems, Parking Guidance and Information System (PGIS), transit-based information system, smart payment system, e-parking, and automated parking<sup>[1]</sup>. This Human Computer Interaction (HCI) project focused on identifying the typical issues with indoor car parking systems as well as an innovative solution of a smart parking system to solve the ​‍​‌‍​‍‌problem.
 
+The​‍​‌‍​‍‌ world is full of different smart parking systems that include automatic pay stations and barriers, auto pay parking systems, active RFID parking systems, robotic parking systems, Parking Guidance and Information System (PGIS), transit-based information system, smart payment system, e-parking, and automated parking<sup>[1]</sup>. This Human Computer Interaction (HCI) project focused on identifying the typical issues with indoor car parking systems as well as an innovative solution of a smart parking system to solve the ​‍​‌‍​‍‌problem.
 
 Based on the research, the conventional indoor car parking system does not provide the drivers regarding the availability of parking spaces. As a result, many of the drivers who enter the parking lot waste their time searching for parking. The conventional indoor car parking system will just open the barrier when drivers press the automated machine for tickets or tap their TouchNGo card to enter without showing the availability number of parking spaces<sup>[1]</sup> which can be shown in Figure 1.1 below.
 
@@ -48,4 +48,20 @@ Overall, the difficulty of locating parked vehicles in large multi-level parking
 Other than the problems of finding available parking spaces and locating one’s own car, ladies’ parking, which serves as designated bays for female drivers, is often misused. These spaces are reserved specifically for single women, groups of women, and single mothers with boys under 12 years old<sup>[5]</sup>. According to a survey by LiveView Technologies (LVT), 69% of women reported feeling unsafe in parking lots, which often influences their decision to visit shopping malls<sup>[6]</sup>. A real and tragic example is the Canny Ong case, where she was abducted from a parking lot in 2003. This incident serves as a strong reminder of the importance of ensuring women’s safety in conventional indoor parking systems.
 
 Ladies’ parking areas are designed with security guards and numerous CCTV cameras that provide constant monitoring to help prevent suspicious individuals from committing crimes which can be shown in figure 3.1. They are usually located close to the main entrances and exits, with wider parking spaces and fewer blind spots for better visibility. In addition, the lighting in these areas is much brighter compared to regular parking spaces, making them easier to notice and safer to navigate. Overall, ladies’ parking helps reduce crime rates, ensure women’s safety, and allow female drivers to feel secure even during late hours or in less-crowded areas.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/113f6d1f-dc51-43a8-ade8-8c4dc3a43c71" alt="photo_2025-11-03_09-55-17">
+  <br>
+  <em>Figure 3.1 : Paradigm mall JB’s Ladies and Child Parking Zone with security guard assistance</em>
+</p>
+
+However, it is common to hear complaints about weak enforcement by security personnel. This allows some individuals to take advantage of the ladies’ parking spaces when they see many empty spots, even though they are not eligible to use them. This includes couples and families who justify their actions by claiming that their wife or girlfriend was the driver<sup>[7]</sup>. Such behavior goes against the original purpose of ladies’ parking which is to provide safety and reduce women’s fear of potential crimes. Some people even claim they did not realize it was a ladies’ parking area, despite the clearly marked pink signs and female icons displayed around the spaces as shown in figure 3.2.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2c94d19-aef2-49f7-bd8f-1a694036bb3c" alt="photo_2025-11-03_09-55-17">
+  <br>
+  <em>Figure 3.2 Shopping mall in Kuala Lumpur with a lady parking sign board</em>
+</p>
+
+Consequently, women who genuinely need these designated spaces are often left without a safe place to park. They are forced to use general parking areas with limited security patrols and poor lighting for surveillance. Over time, women become disappointed with the parking system as the effectiveness of ladies’ parking decreases.
 
