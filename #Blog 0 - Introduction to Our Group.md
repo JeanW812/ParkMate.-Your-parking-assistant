@@ -51,8 +51,7 @@ I like to do tasks while chatting with friends. It makes me feel **happy and les
 Hi, My name's Chan Siew Ching, but you can just call me Siew Ching. 🥰
 I enjoy studying while sipping my favorite drink because it helps me stay focused and feel relaxed ☕🎧
 
-
-
+<br clear="left"/>
 <br /> 
 <br /> 
 #### 👩‍💻 Member 4: Ung Yii Jia
