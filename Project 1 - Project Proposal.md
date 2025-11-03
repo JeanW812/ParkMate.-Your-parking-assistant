@@ -93,3 +93,23 @@ Last but not least, female drivers are one of the most concerned user groups. Th
 This situation highlights the need for a more secure and reliable system to protect female drivers.
 
 With the ParkMate system, an automated ladies’ parking access control is implemented to address this issue. The system uses the IC number to differentiate gender and ensure that only verified female users are registered. At the parking barrier, a facial recognition camera compares the driver’s face with the registered data in the ParkMate system. If the identity matches a registered female driver, the barrier will open automatically; otherwise, access will be denied. This solution helps to prevent misuse of ladies’ parking, enhances safety for women, and promotes a secure and inclusive parking environment.
+
+## <ins>References</ins>
+[1] Woo Zhe Min1, Rahmat Muslim1*. (2022). A Study on Smart Parking System At AEON 
+	Seremban2. Progress in Engineering Application and Technology, 3(1), 268–278. 
+	https://publisher.uthm.edu.my/periodicals/index.php/peat/article/view/6140
+
+[2] D. C. Shoup. (2006). Cruising for parking. Transport Policy, vol. 13, no. 6, pp. 479–486.
+
+[3] Aftab, K., Kulkarni, P., Shergold, I., Jones, M., Dogramadzi, M., Carnelli, P., & 
+	Sooriyabandara, M. (2020). Reducing Parking Space Search Time and Environmental 
+	Impacts: A Technology Driven Smart Parking Case Study. IEEE Technology and Society 
+	Magazine, 39(3), 62–75. https://doi.org/10.1109/mts.2020.3012329
+
+[4] Mora, R., Allard, J. M., & Zurob, C. (2014). Where is my car? Examining wayfinding behavior in a parking lot. Fractal: Revista de Psicologia, 26(2), 267–278. https://doi.org/10.1590/1984-0292/1310
+
+[5] Motorist.co.th. (2024). What is Lady Parking and where can you find it? | Articles | Motorist Thailand. Motorist.co.th. https://www.motorist.co.th/en/article/3580/what-is-lady-parking-and-where-can-you-find-it 
+
+[6] LiveView Technologies (2025) How Parking Lot Security Impacts Customer Satisfaction and Retention | LVT. (2025). Lvt.com. https://www.lvt.com/blog/how-parking-lot-security-impacts-customer-satisfaction-and-retention 
+ 
+[7] Boo Su-Lyn. (2016, February 4). The female-only car park problem. Malay Mail ; Malay Mail. https://www.malaymail.com/news/opinion/2016/02/05/the-female-only-car-park-problem/1054879#google_vignette 
