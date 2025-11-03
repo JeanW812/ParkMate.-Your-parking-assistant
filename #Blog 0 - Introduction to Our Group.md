@@ -27,6 +27,16 @@
 | 4. | **Ung Yii Jia** | Member |
 | 5. | **Yeoh Huey Ting** | Member |
 
+
+#### 👩‍💻 Member 4: Ung Yii Jia
+
+<img src="https://github.com/user-attachments/assets/f2d00cc7-ec23-42a6-8be8-96327c03dce7" width="120" align="left" style="margin-right: 15px; border-radius: 10px;" />
+
+Hi! My name is **Ung Yii Jia**, but you can just call me **Yii Jia** 😊  
+I like to do tasks while eating because it makes me feel more **inspired** ✨  
+
+<br clear="left"/>
+
 #### 👩‍💻 Member 5: Yeoh Huey Ting
 
 <img src="https://github.com/user-attachments/assets/ffb0deef-e5da-45b8-9e9c-ed87b151f11c" width="120" align="left" style="margin-right: 15px; border-radius: 10px;" />
