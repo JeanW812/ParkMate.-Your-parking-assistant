@@ -33,7 +33,7 @@
 <img src="https://github.com/user-attachments/assets/f2d00cc7-ec23-42a6-8be8-96327c03dce7" width="120" align="left" style="margin-right: 15px; border-radius: 10px;" />
 
 Hi! My name is **Ung Yii Jia**, but you can just call me **Yii Jia** 😊  
-I like to do tasks while eating because it makes me feel more **inspired** ✨  
+I like to do task while listening to my favourites music because it can help me to stay **calm** 😎 
 
 <br clear="left"/>
 
