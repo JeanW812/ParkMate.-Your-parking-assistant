@@ -74,7 +74,7 @@ I like to do tasks while eating because it makes me feel more **inspired** ✨
 ---
 
 ## 💬 Description of Our Group Name
-Our group chose the name **“Error 404”** because we are network students who recently learned about network server error codes.  
+Our group chose the name **“404 Error”** because we are network students who recently learned about network server error codes.  
 The term *404 Error* is commonly seen when a webpage cannot be found, and in **Universiti Teknologi Malaysia (UTM)**, we often encounter this error when trying to access certain websites.  
 This makes the name both **relatable** and **memorable** to us.
 
