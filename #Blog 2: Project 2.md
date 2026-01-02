@@ -141,9 +141,8 @@ _HTA (Diagram Presentation) – Lone Driver Performs Task 1_
 <img width="1073" height="433" alt="Lone Driver Task 1 " src="https://github.com/user-attachments/assets/010e3498-51a2-42b7-937c-30915f7d03c7" />
 <br> 
 <em>Figure 2.1.1: HTA Diagram of Lone Driver doing Task 1</em>
+	https://drive.google.com/file/d/1f4HuwxozvPEZV9vymoaa-XVWi2qfu-9Z/view?usp=sharing
 </p>
-
-https://drive.google.com/file/d/1f4HuwxozvPEZV9vymoaa-XVWi2qfu-9Z/view?usp=sharing
 
 User Type 2: Elderly Driver
 
@@ -171,22 +170,21 @@ _HTA (Textual Presentation) – Elderly Driver Performs Task 1_
    
    7. Lock the car and walk to building entrance
 
-Plan 0:
-
-    Do 1 → 2 → 3 → 4 → 5 → 6 → 7  in order.
+Plan 0: 
+	
+	Do 1 → 2 → 3 → 4 → 5 → 6 → 7  in order.
 
 Plan 5:
-
-Do 5.1 repeatedly until an empty slot is found.
+	
+	Do 5.1 repeatedly until an empty slot is found.
 
 _HTA (Diagram Presentation) – Elderly Driver Performs Task 1_
 <p align="center">
 <img width="1351" height="661" alt="image" src="https://github.com/user-attachments/assets/6e5d8872-2f44-42d8-ad32-81b11f9a901b" />
 <br>
 <em>Figure 2.1.2: HTA Diagram of Elderly Driver doing Task 1</em>
+	https://drive.google.com/file/d/1pxXlimlxAMLlMotMhHl0CXOX-7W8lPE8/view?usp=sharing
 </p>
-
-https://drive.google.com/file/d/1pxXlimlxAMLlMotMhHl0CXOX-7W8lPE8/view?usp=sharing
 
 User Type 3: Female Driver
 
@@ -248,386 +246,434 @@ _HTA (Diagram Presentation) – Female Driver  Performs Task 1_
   <img width="1076" height="370" alt="image" src="https://github.com/user-attachments/assets/ea4de64c-d004-455c-a746-eca564988449" />
   <br>
 <em>Figure 2.1.3: HTA Diagram of Female Driver doing Task 1 </em>
+	https://app.diagrams.net/#G1qFrA9UIbTLxcWmda8nuJRQmjPM3UqJeo#%7B%22pageId%22%3A%22hMAyd972iGnsGYgStMXn%22%7D 
 </p>
 
-https://app.diagrams.net/#G1qFrA9UIbTLxcWmda8nuJRQmjPM3UqJeo#%7B%22pageId%22%3A%22hMAyd972iGnsGYgStMXn%22%7D 
+### Findings from the HTA for Task 1 – “Find Available Parking Slots”
 
-Findings from the HTA for Task 1 – “Find Available Parking Slots”
 Information on HTAs and Thinking-Aloud across 3 personas
-Across all three users, the HTA reveals a common high-level structure: entering the parking area, scanning the environment, navigating through different lanes or floors, and finally identifying and occupying an available slot. 
+
+Across all three users, the HTA reveals a common high-level structure: entering the parking area, scanning the environment, navigating through different lanes or floors, and finally 
+identifying and occupying an available slot. 
 Across all videos, the HTAs showed common cognitive patterns:
-• Users continuously scan for indicator lights (red/green) while driving slowly.
-• Users repeatedly check both sides of the lane, indicating a looping search process.
-• Users rely heavily on visual cues, especially green indicators or people walking back to their cars.
-• When they fail to locate a slot quickly, cognitive load increases, leading to frustration or slower decisions.
+* Users continuously scan for indicator lights (red/green) while driving slowly.
+* Users repeatedly check both sides of the lane, indicating a looping search process.
+* Users rely heavily on visual cues, especially green indicators or people walking back to their cars.
+* When they fail to locate a slot quickly, cognitive load increases, leading to frustration or slower decisions.
+
 Thinking-Aloud reveals emotional responses that affect task efficiency. Users frequently expressed frustration, particularly when they could not locate a slot after several attempts. This frustration increased cognitive load and slowed down decision-making. Across the videos, users also misinterpreted visual cues, such as green indicators that corresponded to reserved slots (e.g., disabled parking), which resulted in wasted search time and increased mental effort. This suggests that the current car park environment does not adequately support users with clear, reliable feedback. 
-Differences of 3 personas perform on Task 1
-Aspect
-Lone Driver
-Elderly Driver
-Female Driver
-Speed of Navigation
-Fast, moves quickly
-Slow, cautious driving
-Moderate speed
-Scanning Behaviour
-Iterative scanning, fast left–right checks (may over-scan too quickly)
-Slow and detailed scanning (sometimes struggles to see distant indicators)
-Iterative scanning but more cautious, frequently checks for people returning to cars
-Decision-Making
-Makes instant decisions upon seeing green lights
-Takes longer to make decision
-Makes instant decisions when someone leaving
-Reaction Under Pressure
-Shows frustration when lanes are full
-Higher cognitive load
-A bit frustration on finding empty slots when lanes are full
-Use of Environmental Cues
-Minimal, follows sensors more than human behaviour
-Low, focuses on driving stability and visibility
-High, looks for people returning to cars and leave
-Common Issues Observed
-Difficulty scanning sensors quickly
-Difficulty scanning sensors quickly
-Difficulty scanning sensors quickly
-Overall Behaviour Style
-Confident, fast-paced, emotional under pressure
-Safety-first, slower, methodical, higher mental effort
-Safety-oriented, socially aware, fast-paced
+
+_Differences of 3 personas perform on Task 1_
+| Aspect                  | Lone Driver                                      | Elderly Driver                                             | Female Driver                                           |
+|-------------------------|-------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------|
+| Speed of Navigation      | Fast, moves quickly                             | Slow, cautious driving                                     | Moderate speed                                         |
+| Scanning Behaviour       | Iterative scanning, fast left–right checks (may over-scan too quickly) | Slow and detailed scanning (sometimes struggles to see distant indicators) | Iterative scanning but more cautious, frequently checks for people returning to cars |
+| Decision-Making          | Makes instant decisions upon seeing green lights | Takes longer to make decision                              | Makes instant decisions when someone leaving          |
+| Reaction Under Pressure  | Shows frustration when lanes are full           | Higher cognitive load                                      | A bit frustration on finding empty slots when lanes are full |
+| Use of Environmental Cues | Minimal, follows sensors more than human behaviour | Low, focuses on driving stability and visibility          | High, looks for people returning to cars and leave   |
+| Common Issues Observed   | Difficulty scanning sensors quickly             | Difficulty scanning sensors quickly                        | Difficulty scanning sensors quickly                   |
+| Overall Behaviour Style  | Confident, fast-paced, emotional under pressure | Safety-first, slower, methodical, higher mental effort    | Safety-oriented, socially aware, fast-paced           |
 
 These differences highlight the importance of accommodating diverse user needs. While the lone driver benefits from fast, clear guidance, the elderly driver requires simplified navigation and reduced visual complexity. Meanwhile, the female driver prioritises safety and seeks reliable information on the availability of appropriate parking zones.
-Conclusions from Comparing the HTAs across 3 personas for Task 1
+
+_Conclusions from Comparing the HTAs across 3 personas for Task 1_
+
 Comparison of the three HTAs indicates several consistent issues in the current manual parking search process. All users depend heavily on visual scanning of lights and aisles, which is time-consuming and cognitively demanding.All users are caught in repetitive loops of scanning, lane switching and floor changes, demonstrating inefficiencies inherent in the environment. 
+
 Furthermore, differences among users indicate that the current system does not effectively serve users with different levels of cognitive, perceptual and emotional needs. While younger (lone/female) drivers may deal with fast-paced scanning, elderly drivers have greater challenges, such as uncertainty, slower detection, and lower confidence in navigating busy floors. These findings show a need for system enhancements that could provide real-time guidance, clearer slot differentiation, and personalized navigation support for different user groups.
 
-2.2 HTA for Task 2 – Find Parked Car
+#### 2.2 HTA for Task 2 – Find Parked Car
+
 User Type 1: Lone Driver
+
 Video on Lone Driver finding parked car: 
 https://drive.google.com/file/d/1wqkR3r1YT4ErMs5bk40CAqDqX666HBmC/view?usp=drive_link
-HTA (Textual Presentation) – Lone Driver Performs Task 2
+
+_HTA (Textual Presentation) – Lone Driver Performs Task 2_
+
     0. Find the parked car
-    1. Open Google Maps
-	1.1 Open the app
-	1.2 Select “Saved parking”
-    2. Attempt to navigate using Google Maps
-	2.1 Follow the on-screen directions
-	2.2 Compare surroundings with the map
-	2.3 Check if the route makes sense inside the building
-    3. Confirm Google Maps failure
-	3.1 Notice location inaccuracy
-	3.2 Decide to switch to manual searching
-    4. Recall human memory of parked location
-    5. Navigate manually based on memory cues
-	5.1 Walk toward the estimated zone
-	5.2 Check each row left and right
-	5.3 Look for car characteristics (color, number plate)
-    6. Locate the car
-	6.1 Confirm visually it is the user’s car
-	6.2 Walk toward the vehicle
-	6.3 Unlock the car
+    
+	1. Open Google Maps
+		
+		1.1 Open the app
+		
+		1.2 Select “Saved parking”
+    
+	2. Attempt to navigate using Google Maps
+		
+		2.1 Follow the on-screen directions
+		
+		2.2 Compare surroundings with the map
+		
+		2.3 Check if the route makes sense inside the building
+    
+	3. Confirm Google Maps failure
+		
+		3.1 Notice location inaccuracy
+		
+		3.2 Decide to switch to manual searching
+   
+	4. Recall human memory of parked location
+    
+	5. Navigate manually based on memory cues
+		
+		5.1 Walk toward the estimated zone
+		
+		5.2 Check each row left and right
+		
+		5.3 Look for car characteristics (color, number plate)
+    
+	6. Locate the car
+		
+		6.1 Confirm visually it is the user’s car
+		
+		6.2 Walk toward the vehicle
+		
+		6.3 Unlock the car
 
 Plan 0: do 1-2-3.
+	
 	If Step 2 fails, do 4-5 repeatedly until the car is found. 
+	
 	then do 6.
+
 Plan 1: Do 1.1 then 1.2.
+
 Plan 2: Do 2.1 then 2.2 then 2.3.
+
 Plan 3: Do 3.1 then 3.2.
+
 Plan 5: Do 5.1 then 5.2 then 5.3 repeatedly until the car is located.
+
 Plan 6: Do 6.1 then 6.2 then 6.3
 
-HTA (Diagram Presentation) – Lone Driver Performs Task 2
-
-
-
-
-
-
-
-           		Figure 2.2.1: HTA Diagram of Lone Driver doing Task 2
-    https://drive.google.com/file/d/1p7kSUpuIJggXTdcXH_3M9HpyvDc7s5If/view?usp=sharing
+_HTA (Diagram Presentation) – Lone Driver Performs Task 2_
+<p align="center">
+<img width="1028" height="580" alt="Lone Driver Task 2" src="https://github.com/user-attachments/assets/5d4a0f38-a425-4d42-8567-ac48c024d404" />
+<br>
+<em>Figure 2.2.1: HTA Diagram of Lone Driver doing Task 2</em>
+https://drive.google.com/file/d/1p7kSUpuIJggXTdcXH_3M9HpyvDc7s5If/view?usp=sharing
+</p>
 
 User Type 2: Elderly Driver
+
 Video on Elderly Driver finding parked car: https://drive.google.com/file/d/1BpcceHWyP-BJKJFH-6o6U2f8RB7qAUZl/view?usp=sharing
-HTA (Textual Presentation) – Elderly Driver Performs Task 2
-    0. Find the parked car
-    1. Open Google Maps
-	1.1 Open the app
-	1.2 Select “Saved parking”
-    2. Attempt to navigate using Google Maps
-	2.1 Follow the app directions
-	2.2 Compare surroundings with the map
-	2.3 Check if the direction makes sense inside the building
+
+_HTA (Textual Presentation) – Elderly Driver Performs Task 2_
+    
+	0. Find the parked car
+    
+	1. Open Google Maps
+		
+		1.1 Open the app
+	
+		1.2 Select “Saved parking”
+    
+	2. Attempt to navigate using Google Maps
+	
+		2.1 Follow the app directions
+	
+		2.2 Compare surroundings with the map
+	
+		2.3 Check if the direction makes sense inside the building
     3. Confirm Google Maps failure
-	3.1 Notice location inaccuracy
-	3.2 Decide to switch to manual searching
-    4. Try to use human memory to recall parked location
-    5. Navigate manually based on memory cues
-	5.1 Walk toward the estimated zone
-	5.2 Check each row left and right
-	5.3 Look for car characteristics (color, number plate)
-    6. Locate the parked car
-	6.1 Confirm visually it is the user’s car
-	6.2 Walk toward the vehicle
-	6.3 Unlock the car
+	
+		3.1 Notice location inaccuracy
+	
+		3.2 Decide to switch to manual searching
+    
+	4. Try to use human memory to recall parked location
+    
+	5. Navigate manually based on memory cues
+		
+		5.1 Walk toward the estimated zone
+		
+		5.2 Check each row left and right
+		
+		5.3 Look for car characteristics (color, number plate)
+    
+	6. Locate the parked car
+	
+		6.1 Confirm visually it is the user’s car
+	
+		6.2 Walk toward the vehicle
+		
+		6.3 Unlock the car
+
 Plan 0: do 1-2-3.
+	
 	If Step 2 fails, do 4-5 repeatedly until the car is found. 
+	
 	then do 6.
+
 Plan 1: do 1.1 then 1.2.
+
 Plan 2: do 2.1 then 2.2 then 2.3.
+
 Plan 3: do 3.1 then 3.2.
+
 Plan 5: Do 5.1 then 5.2 then 5.3 repeatedly until the car is located.
+
 Plan 6: Do 6.1 then 6.2 then 6.3
 
-HTA (Diagram Presentation) – Elderly Driver Performs Task 2
-
-              Figure 2.2.2: HTA Diagram of Elderly Driver doing Task 2
+_HTA (Diagram Presentation) – Elderly Driver Performs Task 2_
+<p align="center">
+<img width="1252" height="544" alt="image" src="https://github.com/user-attachments/assets/6eb172fc-8725-4fa4-a9f8-e91722afc9d2" />
+<br>
+<em>Figure 2.2.2: HTA Diagram of Elderly Driver doing Task 2</em>
 https://drive.google.com/file/d/1OTTr3tFPSVipipDm0eicATxMTeV7tKVG/view?usp=sharing
-
-
-
-
-
-
-
-
-
+</p>
 
 User Type 3: Female Driver
+
 Video on Female Driver finding parked car: https://drive.google.com/file/d/1Cs4jehPjnXRqSRH5KZxAOThBxTTgbMRA/view?usp=drive_link 
-HTA (Textual Presentation) – Female Driver Performs Task 2
-    0. Find the parked car
-    1. Open Google Maps
-	1.1 Open the app
-	1.2 Select “Saved parking”
-    2. Attempt to navigate using Google Maps
-	2.1 Follow the app directions
-	2.2 Compare surroundings with the map
-	2.3 Check if the direction makes sense inside the building
-    3. Confirm Google Maps failure
-	3.1 Notice location inaccuracy
-	3.2 Decide to switch to manual searching
-    4. Try to use human memory to recall parked location
-    5. Navigate manually based on memory cues
-	5.1 Walk toward the estimated zone
-	5.2 Check each row left and right
-	5.3 Look for car characteristics (color, number plate)
-    6. Locate the parked car
-	6.1 Confirm visually it is the user’s car
-	6.2 Walk toward the vehicle
-	6.3 Unlock the car
+
+_HTA (Textual Presentation) – Female Driver Performs Task 2_
+    
+	0. Find the parked car
+    
+	1. Open Google Maps
+	
+		1.1 Open the app
+		
+		1.2 Select “Saved parking”
+    
+	2. Attempt to navigate using Google Maps
+		
+		2.1 Follow the app directions
+		
+		2.2 Compare surroundings with the map
+		
+		2.3 Check if the direction makes sense inside the building
+    
+	3. Confirm Google Maps failure
+		
+		3.1 Notice location inaccuracy
+		
+		3.2 Decide to switch to manual searching
+    
+	4. Try to use human memory to recall parked location
+    
+	5. Navigate manually based on memory cues
+	
+		5.1 Walk toward the estimated zone
+	
+		5.2 Check each row left and right
+	
+		5.3 Look for car characteristics (color, number plate)
+    
+	6. Locate the parked car
+	
+		6.1 Confirm visually it is the user’s car
+	
+		6.2 Walk toward the vehicle
+		
+		6.3 Unlock the car
+
 Plan 0: do 1-2-3.
+	
 	If Step 2 fails, do 4-5 repeatedly until the car is found. 
+	
 	then do 6.
+
 Plan 1: Do 1.1 then 1.2.
+
 Plan 2: Do 2.1 then 2.2 then 2.3.
+
 Plan 3: Do 3.1 then 3.2.
+
 Plan 5: Do 5.1 then 5.2 then 5.3 repeatedly until the car is located.
+
 Plan 6: Do 6.1 then 6.2 then 6.3
-HTA (Diagram Presentation) – Female Driver Performs Task 2
 
-
-
-
-Figure 2.2.3: HTA Diagram of Female Driver doing Task 2
+_HTA (Diagram Presentation) – Female Driver Performs Task 2_
+<p align="center">
+<img width="923" height="350" alt="image" src="https://github.com/user-attachments/assets/7da7dab0-de22-4982-83fe-7ac89e87b76f" />
+<br>
+<em>Figure 2.2.3: HTA Diagram of Female Driver doing Task 2</em>
 https://app.diagrams.net/#G1qFrA9UIbTLxcWmda8nuJRQmjPM3UqJeo#%7B%22pageId%22%3A%22DAcXMnN_CmskjjDfOfph%22%7D 
-      Findings from the HTAs for Task 2 - “Find Parked Car”
+</p>
+      
+### Findings from the HTAs for Task 2 - “Find Parked Car”
 Information on HTA and Thinking Aloud across the three personas
+
 Across all three users, the HTA for Task 2 shows a similar high-level structure: attempting to recall the parking location, trying to use digital tools (Google Maps or memory), navigating through different floors or lanes, and eventually relying on repeated searching until the car is found. Thinking-aloud observations reveal several common cognitive patterns. All users spent significant time trying to remember where they parked, followed by scanning the environment for familiar landmarks such as lift lobbies, wall colours, or pillar numbers. Users repeatedly walked through aisles or floors, indicating a looping search process when their initial assumption was incorrect. When memory failed or the environment looked too similar, cognitive load increased, which led to slower movement, hesitation, and uncertainty.
+
 Thinking-aloud also shows emotional reactions that affect task performance. All users expressed frustration when their mental image of the parking location did not match reality. This frustration increased cognitive load and led to inefficient or repetitive walking patterns. Users occasionally misinterpreted cues, such as assuming they were on the correct floor because the pillars looked similar, which resulted in wasted time and unnecessary physical effort. These findings indicate that the current indoor parking environment does not provide adequate support or reliable feedback for users to locate their vehicles easily.
- Differences Across the three personas
-Aspect
-Lone Driver
-Elderly Driver
-Female Driver
-Speed of Navigation
-Fast walking pace
-Slow, careful walking
-Moderate pace
-Use of Memory
-Relies on quick recall
-Weak recall, easily forgets floor
-Relies on partial recall and environmental cues
-Scanning Behaviour
-Checks aisles quickly, walks in straight paths
-Slow, detailed scanning, backtracks often
-Methodical scanning, looks for familiar objects
-Decision-Making
-Makes quick decisions on where to search next
-Hesitates, unsure if on the correct floor
-Decides based on surrounding cues (lifts, colours)
-Reaction Under Pressure
-Shows annoyance, speeds up
-Becomes anxious, slows down
-Mild frustration but stays cautious
-Use of Environmental Cues
-Low, depends on memory
-High, relies heavily on lift numbers, colours
-Moderate, uses both memory and cues
-Common Issues Observed
-Floors look identical, fast misjudgment
-Confusion due to repetitive layout, fatigue
-Misinterprets similar pillars and zones
-Overall Behaviour Style
-Confident, fast-paced, but easily frustrated
-Vulnerable, easily confused, high mental effort
-Safety-oriented, balanced between caution and speed
+
+Differences Across the three personas
+| Aspect                  | Lone Driver                                      | Elderly Driver                                             | Female Driver                                           |
+|-------------------------|-------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------|
+| Speed of Navigation      | Fast walking pace                               | Slow, careful walking                                      | Moderate pace                                          |
+| Use of Memory            | Relies on quick recall                           | Weak recall, easily forgets floor                           | Relies on partial recall and environmental cues       |
+| Scanning Behaviour       | Checks aisles quickly, walks in straight paths  | Slow, detailed scanning, backtracks often                  | Methodical scanning, looks for familiar objects      |
+| Decision-Making          | Makes quick decisions on where to search next   | Hesitates, unsure if on the correct floor                  | Decides based on surrounding cues (lifts, colours)   |
+| Reaction Under Pressure  | Shows annoyance, speeds up                       | Becomes anxious, slows down                                 | Mild frustration but stays cautious                  |
+| Use of Environmental Cues| Low, depends on memory                            | High, relies heavily on lift numbers, colours              | Moderate, uses both memory and cues                  |
+| Common Issues Observed   | Floors look identical, fast misjudgment         | Confusion due to repetitive layout, fatigue                | Misinterprets similar pillars and zones              |
+| Overall Behaviour Style  | Confident, fast-paced, but easily frustrated    | Vulnerable, easily confused, high mental effort            | Safety-oriented, balanced between caution and speed |
+
 
 These differences show that while the lone driver prioritises speed, the elderly driver requires stronger support for memory and navigation. The female driver places more emphasis on safety and clarity, preferring cues that make her feel secure while searching.
- Conclusions from Comparing HTAs Across the 3 Personas for Task 2 
+
+_Conclusions from Comparing HTAs Across the 3 Personas for Task 2_
+
 Comparing the three HTAs reveals several consistent challenges in the current car-finding process. All users rely heavily on memory and environmental scanning because digital tools like Google Maps do not work accurately indoors. This results in repeated loops of searching, moving between floors, and checking aisles, which makes the task time-consuming and cognitively demanding. The indoor environment, with identical layouts and poor differentiation, contributes significantly to user confusion and inefficiency.
 Furthermore, user differences show that the current system does not effectively support individuals with varied cognitive and physical abilities. Younger drivers can complete the task despite frustration, but elderly drivers struggle the most due to weak memory, slow movement, and difficulty interpreting cues. The female driver also demonstrates a strong need for safety and reassurance during the search. These findings highlight the need for improved indoor navigation, clearer floor identification, automatic parking location tracking, and personalised guidance that caters to different user needs.
 
-2.3 HTA for Task 3 – Find Available Parking in Ladies Parking
+#### 2.3 HTA for Task 3 – Find Available Parking in Ladies Parking
+
 User Type 1: Lone Driver
+
 Video on Lone Driver finding available ladies parking slot: 
 https://drive.google.com/file/d/1-sLfs6sK5_Fy2-VSKEn81lzi5_C0JyjW/view?usp=drive_link
 
-
-HTA (Textual Presentation) – Lone Driver Performs Task 3
-    0. Find an available ladies parking slot 
-    1. Enter ladies parking area 
-	1.1 Drive into the ladies parking area 
-	1.2 Look around for available slots 
-    2. Confirm ladies parking is full 
-	2.1 Scan all visible rows 
-	2.2 Notice all slots are occupied 
-    3. Exit ladies parking area 
-	3.1 Move to general parking
-3.2 Move to another floor 
+_HTA (Textual Presentation) – Lone Driver Performs Task 3_
+    
+	0. Find an available ladies parking slot 
+    
+	1. Enter ladies parking area 
+	
+		1.1 Drive into the ladies parking area 
+		
+		1.2 Look around for available slots 
+    
+	2. Confirm ladies parking is full 
+		
+		2.1 Scan all visible rows 
+		
+		2.2 Notice all slots are occupied 
+    
+	3. Exit ladies parking area 
+	
+		3.1 Move to general parking
+		
+		3.2 Move to another floor 
 
 Plan 0. Do 1-2-3
+
 Plan 1. Do 1.1 then 1.2
+
 Plan 2. Do 2.1 then 2.2
+
 Plan 3. Do 3.1 or 3.2 depending on user’s choice
 
+_HTA (Diagram Presentation) – Lone Driver Performs Task 3_
+<p align="center">
+<img width="632" height="581" alt="Lone Driver Task 3" src="https://github.com/user-attachments/assets/fbcbab57-db2f-4b66-a863-082a90699861" />
+<br>
+<em>Figure 2.3.1: HTA Diagram of Lone Driver doing Task 3</em>
+https://drive.google.com/file/d/1iUxsWue-c1tUSHz5PvqcvFhPHexL2k3U/view?usp=sharing
+</p>
 
-
-HTA (Diagram Presentation) – Lone Driver Performs Task 3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     Figure 2.3.1: HTA Diagram of Lone Driver doing Task 3
-  https://drive.google.com/file/d/1iUxsWue-c1tUSHz5PvqcvFhPHexL2k3U/view?usp=sharing
 User Type 2: Elderly Driver
-Video on Elderly Driver finding available ladies parking slot: https://drive.google.com/file/d/1dNmT1Adfk_309-W-vK2WrfzI-kqeSvzc/view?usp=sharing
-HTA (Textual Presentation) – Elderly Driver Performs Task 3
-0. Access Ladies Parking
-1. Drive into parking building
-2. Drive slowly into the designated ladies parking area
-3. Check if slots are available
-3.1 circle around repeatedly
-4. Park at the nearest available ladies parking spot
-5. Lock car and walk toward entrance
-Plan 0:
- Do 1 → 2 → 3 → 4 → 5 in order.
-Plan 3:
-Do 3.1 repeatedly until an empty slot is found.
-HTA (Diagram Presentation) – Elderly Driver Performs Task 3
 
-Figure 2.3.2: HTA Diagram of Elderly Driver doing Task 3
+Video on Elderly Driver finding available ladies parking slot: https://drive.google.com/file/d/1dNmT1Adfk_309-W-vK2WrfzI-kqeSvzc/view?usp=sharing
+
+_HTA (Textual Presentation) – Elderly Driver Performs Task 3_
+
+	0. Access Ladies Parking
+	
+	1. Drive into parking building
+	
+	2. Drive slowly into the designated ladies parking area
+	
+	3. Check if slots are available
+		
+		3.1 circle around repeatedly
+	
+	4. Park at the nearest available ladies parking spot
+	
+	5. Lock car and walk toward entrance
+
+Plan 0:
+
+Do 1 → 2 → 3 → 4 → 5 in order.
+
+Plan 3:
+
+Do 3.1 repeatedly until an empty slot is found.
+
+_HTA (Diagram Presentation) – Elderly Driver Performs Task 3_
+<p align="center">
+<img width="771" height="381" alt="image" src="https://github.com/user-attachments/assets/6cd4ce10-0207-4430-bf41-f66da06c4bb9" />
+<br>
+<em>Figure 2.3.2: HTA Diagram of Elderly Driver doing Task 3</em>
 https://drive.google.com/file/d/1LsGduGhJSxvQH_E_7WnFrS45s4wQbhfq/view?usp=sharing
+</p>
 
 User Type 3: Female Driver 
+
 Video on Female Driver finding available ladies parking slot: 
 https://drive.google.com/file/d/1Uev0CEO2Ubj9hHkvwJ7c3ohpAvCHv-yQ/view?usp=drive_link 
-HTA (Textual Presentation) – Female Driver Performs Task 3
-0. Find parking at Ladies Parking
-1. Look for Ladies Parking
-	1.1. Look for area covering with pink
-	1.2. Look for ‘Ladies Parking’ sign 
-2. Drive through the lane at Ladies Parking area
-3. Look for an empty parking lot.
-4. Found all parking lot are occupied
-	4.1. Drive to the next lane
-5. Exit Ladies Parking area
-6. Park the car at the free parking lot
 
+_HTA (Textual Presentation) – Female Driver Performs Task 3_
+
+	0. Find parking at Ladies Parking
+	
+	1. Look for Ladies Parking
+		
+		1.1. Look for area covering with pink
+	
+		
+		1.2. Look for ‘Ladies Parking’ sign 
+	
+	2. Drive through the lane at Ladies Parking area
+	
+	3. Look for an empty parking lot.
+	
+	4. Found all parking lot are occupied
+		
+		4.1. Drive to the next lane
+	
+	5. Exit Ladies Parking area
+	
+	6. Park the car at the free parking lot
 
 Plan 0:
+
 Do 1 - 2 - 3,
+
 If all parking lots are occupied, perform 4, then repeat 2 - 3.
+
 If after checking all lanes no space is found, do 5, then do 6 to park at the normal parking lot.
+
 If found a parking lot at the Ladies Parking area, do 6.
 
-
 Plan 1:
+
 Do any 1.1 or 1.2
 
-
 Plan 4:
+
 Do 4.1. repeatedly until a parking lot is found.
 
-
-
-HTA (Diagram Presentation) – Female Driver Performs Task 3
-  Figure 2.3.3: HTA Diagram of Female Driver doing Task 3
+_HTA (Diagram Presentation) – Female Driver Performs Task 3_
+<p align="center">
+<img width="804" height="326" alt="image" src="https://github.com/user-attachments/assets/b590b46c-6a89-4e64-8372-7d50952ef17b" />
+<br>
+<em>Figure 2.3.3: HTA Diagram of Female Driver doing Task 3</em>
 https://app.diagrams.net/#G1qFrA9UIbTLxcWmda8nuJRQmjPM3UqJeo#%7B%22pageId%22%3A%22SxMs9lPztFu86AbuZzzO%22%7D 
-Findings from the HTAs for Task 3 – “Find Available Parking in Ladies Parking”
+</p>
+
+### Findings from the HTAs for Task 3 – “Find Available Parking in Ladies Parking”
+
 1. Information on HTA and Thinking Aloud Across the Three Personas
+   
 The Hierarchical Task Analysis (HTA) for finding available parking in the Ladies Parking area reveals a common high-level process across all female users: they drive to the designated zone, perform an initial assessment of space availability, then conduct a critical review to confirm the spot is not misused, and finally, they either park or initiate a new, prolonged search loop. Thinking-aloud observations clearly show that this task is dominated not by navigation, but by two external failures: the misuse of reserved spaces by ineligible male drivers and weak enforcement by facility staff. All users experienced prolonged and frustrating search loops when their intended area was found to be full or compromised, leading directly to wasted time and increased fuel consumption. The discovery of misuse significantly raises the users' cognitive and emotional load, replacing the simple act of parking with the stressful task of safety assessment. Users spent mental effort scrutinizing nearby vehicles and their occupants, indicating a profound lack of trust in the system’s security. This state of dissatisfaction and anxiety contradicts the fundamental purpose of the Ladies Parking facility.
 
-
 2. Differences Across the three personas
-Aspect
-Lone Driver
-Elderly Driver
-Female Driver
-Primary Frustration
-Time and Inefficiency. Frustrated by the waste of time and fuel caused by others' misconduct.
-Safety and Vulnerability. Acute concern over physical security and the failure of the system to protect them.
-Fairness and Inconvenience. Focus on the injustice of paying for a facility that doesn't deliver the promised exclusivity/safety.
-Reaction to Misuse
-Annoyance, likely confrontation. More prone to expressing dissatisfaction or seeking quick resolution
-Anxiety and Withdrawal. Becomes anxious, may abandon the area quickly to find a safer spot elsewhere, prioritizing avoidance over confrontation.
-Dissatisfaction, Reputation Damage. Leads to a negative view of facility management; less likely to confront but will vent frustration.
-Critical Safety Cue
-Parking Proximity/Access. Concerns are linked to convenient access and quick exit paths.
-Occupants and Enforcement. Highly sensitive to seeing multiple male occupants in one car, triggering high-level security fears.
-Designated Signage/Lighting. Assesses the safety based on clear signs and good lighting, which are negated by weak enforcement.
-Overall Behaviour Style
-Confident, expects rules to be followed, quickly frustrated when they are not.
-Vulnerable, easily distressed when security is compromised, high mental effort spent on risk assessment.
-Safety-oriented, prioritizes reserved spots for peace of mind, views misuse as a breach of trust.
+
+| Aspect                  | Lone Driver                                                                 | Elderly Driver                                                                                  | Female Driver                                                                                  |
+|-------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Primary Frustration      | Time and Inefficiency. Frustrated by the waste of time and fuel caused by others' misconduct. | Safety and Vulnerability. Acute concern over physical security and the failure of the system to protect them. | Fairness and Inconvenience. Focus on the injustice of paying for a facility that doesn't deliver the promised exclusivity/safety. |
+| Reaction to Misuse       | Annoyance, likely confrontation. More prone to expressing dissatisfaction or seeking quick resolution | Anxiety and Withdrawal. Becomes anxious, may abandon the area quickly to find a safer spot elsewhere, prioritizing avoidance over confrontation. | Dissatisfaction, Reputation Damage. Leads to a negative view of facility management; less likely to confront but will vent frustration. |
+| Critical Safety Cue      | Parking Proximity/Access. Concerns are linked to convenient access and quick exit paths. | Occupants and Enforcement. Highly sensitive to seeing multiple male occupants in one car, triggering high-level security fears. | Designated Signage/Lighting. Assesses the safety based on clear signs and good lighting, which are negated by weak enforcement. |
+| Overall Behaviour Style  | Confident, expects rules to be followed, quickly frustrated when they are not. | Vulnerable, easily distressed when security is compromised, high mental effort spent on risk assessment. | Safety-oriented, prioritizes reserved spots for peace of mind, views misuse as a breach of trust. |
 
 
 3. Conclusions from Comparing HTA Across the three Personas for Task 3
+
 Comparing the HTAs for Task 3 reveals that the task's failure is rooted in security, equity, and trust, rather than physical navigation. The current parking system fails to deliver the promised value of a safer, reserved space because it cannot guarantee exclusivity. This failure creates a hazardous environment, especially for the vulnerable Elderly Female Driver, whose anxiety levels rise sharply when system integrity is compromised. For all users, the task shifts from finding a spot to assessing potential danger, making the environment actively unsupportive. The most critical finding is the urgent need for reliable, strict, and visible enforcement to address the root cause: ineligible usage. To make Task 3 efficient and secure, the key design intervention must be an Automated Enforcement System such as smart sensors or license plate recognition that guarantees only eligible drivers can use the reserved spots, thereby restoring the core elements of security and fairness.
 
 
